@@ -1,6 +1,8 @@
-
-.DS_Store
+# Adding config.py file
 api_keys.py
+
+# Add Other files
+.DS_Store
 .idea/jupyter-settings.xml
 /.idea
 __pycache__/api_keys.cpython-312.pyc
