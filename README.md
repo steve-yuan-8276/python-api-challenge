@@ -26,6 +26,8 @@
 
 #### Output File
 
+The map generated in Jupyter Notebook displays correctly locally, but cannot be displayed after being uploaded to GitHub. Therefore, I saved the map in HTML and PNG formats. The addresses are as follows:
+
     1.city_locations_map 
     Output File: 
     - output_data/city_locations_map.html
