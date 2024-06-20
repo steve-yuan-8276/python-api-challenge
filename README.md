@@ -37,3 +37,4 @@ The map generated in Jupyter Notebook displays correctly locally, but cannot be 
     Output File: 
     - output_data/hotel_map.html
     - output_data/hotel_map.png
+    - output_data/hotel_map_screenshots.png (The webpage screenshot shows mouse hover information.)
