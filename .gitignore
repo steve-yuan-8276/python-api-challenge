@@ -1,3 +1,7 @@
 
 .DS_Store
 api_keys.py
+.idea/jupyter-settings.xml
+/.idea
+__pycache__/api_keys.cpython-312.pyc
+__pycache__/api_keys.cpython-310.pyc
